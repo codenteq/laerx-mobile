@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325466526937",
+    "project_id": "codenteq-d84d9",
+    "storage_bucket": "codenteq-d84d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325466526937:android:34d982a69e97f6e8c61ac8",
+        "android_client_info": {
+          "package_name": "com.driving_course_management.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325466526937-0n138cge9k7mmv08q47nbqidkkir42d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLFvIMeiEoAsU3JpAG7NGeCFrsAQIY1qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325466526937-0n138cge9k7mmv08q47nbqidkkir42d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
