@@ -1,4 +1,4 @@
-# driving_course_app
+# Drive Course App Mobile Client
 
 A new Flutter project.
 
