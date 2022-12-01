@@ -1,11 +1,11 @@
 {
-    "name": "driving_course_app",
-    "short_name": "driving_course_app",
+    "name": "laerx",
+    "short_name": "laerx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "The Laerx webview project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

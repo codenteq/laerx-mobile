@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
   final FirebaseMessaging _firebaseMessaging = FirebaseMessaging.instance;
 
   String? _token;
-  String initialUrl = 'https://drive-course-app.codenteq.com/';
+  String initialUrl = 'https://laerx.codenteq.com/';
 
   var appBarTitleText = '';
 

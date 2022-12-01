@@ -1,6 +1,6 @@
-# Drive Course App Mobile Client
+# Laerx Mobile Client
 
-A new Flutter project.
+The Laerx webview project.
 
 ## Getting Started
 
